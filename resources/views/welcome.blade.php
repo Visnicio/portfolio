@@ -9,10 +9,10 @@
         @vite('resources/css/app.css')
 
         <style>
-            @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400&display=swap');
+            /* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400&display=swap');
             body{
                 font-family: 'Inter', sans-serif;
-            }
+            } */
         </style>
     </head>
     <body class="antialiased bg-gray-900 ">
