@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Hi, I'm a Software Developer and Aspiring Game designer">
 
         <title>Vinicius Antonio da Silva | FullStack Developer And Game Designer</title>
 
