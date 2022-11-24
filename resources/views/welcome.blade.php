@@ -18,7 +18,7 @@
     <body class="antialiased bg-gray-900 ">
         <div class="flex min-h-screen justify-center items-center flex-col">
             <h3 class="text-xl font-extrabold text-white">welcome</h3>
-            <h1 class="text-6xl font-extrabold text-white">HI, I'M VINICIUS ANTONIO</h1>
+            <h1 class="text-6xl font-extrabold text-white">HI, I'M <span class="underline">VINICIUS ANTONIO</span></h1>
         </div>
     </body>
 </html>
